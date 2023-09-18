@@ -44,3 +44,11 @@ svg.graph .labels.y-labels {
 svg.graph .labels .heading {
     fill: maroon;
 }
+
+.table-of-content .toc > ul > li > ul {
+    padding-left: 0.75rem;
+}
+
+.table-of-content .toc > ul > li > ul > li > ul {
+    padding-left: 0.75rem;
+}
